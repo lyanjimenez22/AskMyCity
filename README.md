@@ -118,7 +118,7 @@ data/resources_base44.csv           Base44 table import
 eval/                               42 questions and results
 scripts/                            build, evaluations, Swarms and Prune checks, link check
 test/                               automated tests
-docs/                               sponsor status, verification log, Devpost draft, video script, team plan
+docs/                               sponsor status, verification log
 ```
 
 ## What's next
